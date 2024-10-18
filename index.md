@@ -14,6 +14,4 @@ My research interests are centered around computer vision and deep learning, wit
 ## News
 I haven't published any papers yet
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
