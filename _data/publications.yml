@@ -1,5 +1,13 @@
 main:
 
+  - title: Delving into Dynamic Scene Cue-Consistency for Robust 3D Multi-Object Tracking
+    authors: <strong>Haonan Zhang</strong>, Xinyao Wang, Boxi Wu, Tu Zheng, Wang Yunhua, Zheng Yang
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2508.11323
+    code: https://github.com/zhn12343333/DSCTrack
+    notes: Oral Presentation
+
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
