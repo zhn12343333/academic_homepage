@@ -1,7 +1,7 @@
 main:
 
   - title: Delving into Dynamic Scene Cue-Consistency for Robust 3D Multi-Object Tracking
-    authors: <strong>Haonan Zhang</strong>, Xinyao Wang, Boxi Wu, Tu Zheng, Wang Yunhua, Zheng Yang
+    authors: <strong style="color: #e74d3c">Haonan Zhang</strong>, Xinyao Wang, Boxi Wu, Tu Zheng, Wang Yunhua, Zheng Yang
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
     pdf: https://arxiv.org/abs/2508.11323
